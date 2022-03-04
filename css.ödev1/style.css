@@ -1,0 +1,23 @@
+h1{
+    color: #72147E ;
+}
+a{
+    color: #F21170;
+}
+
+h2{
+    color:#F21170;
+}
+
+h3{
+    color: #FA9905;
+}
+
+.inside{
+    list-style-position: inside;
+}
+
+img{
+    width: 400px;
+    height:300px;
+}
